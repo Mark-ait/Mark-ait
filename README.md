@@ -15,7 +15,7 @@
 
 [![Website](https://img.shields.io/badge/Website-lilianhua.com-4A90E2?style=flat-square&logo=globe&logoColor=white)](https://www.lilianhua.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mark--ait-181717?style=flat-square&logo=github)](https://github.com/Mark-ait)
-[![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@lilianhua.com)
+[![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lee@8i5.net)
 
 </div>
 
